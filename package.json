@@ -8,9 +8,7 @@
   "author": "",
   "license": "MIT",
   "description": "Readme file from test",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
